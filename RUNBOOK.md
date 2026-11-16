@@ -11,12 +11,13 @@ Each scheduled run makes ONE new reel and posts it. Follow every step.
   expression changes, camera push-ins (`punch()`), pop-in text (`back()`), shake for panic.
 - Each reel: a setup, 3-6 short beats that escalate, and a punchline at the end.
 
-## Slot types (10 reels a day, Vancouver time)
-- 9am, 10:30am, 12pm, 4:30pm, 6pm, 11pm: funny + relatable (school, work, sleep, phone, food,
-  gym, money, friends, texting, weekends, family, gaming, late-night thoughts...).
-  No two reels on the same topic; check topics.md.
-- 3pm, 7:30pm: short story reel WITH AI voiceover (narrator tells a tiny funny or wholesome story).
-- 1:30pm, 9pm: motivational (character struggles, keeps going, wins) - uplifting, not cheesy.
+## Slot types (5 animation reels a day, Vancouver time)
+- 9am, 12pm, 6pm: funny + relatable (school, work, sleep, phone, food, gym, money, friends,
+  texting, weekends, family, gaming, late-night thoughts...). No repeats; check topics.md.
+- 3pm: short story reel WITH AI voiceover (narrator tells a tiny funny or wholesome story).
+- 9pm: motivational (character struggles, keeps going, wins) - uplifting, not cheesy.
+- (10:30am, 1:30pm, 4:30pm, 7:30pm, 11pm are streamer CLIP slots - see CLIPS_RUNBOOK.md.
+  If the clip queue is empty, those slots make a funny animation reel instead.)
 
 ## Steps
 1. Read `topics.md`. Pick a fresh topic that fits the slot and was never used.
