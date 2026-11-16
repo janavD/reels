@@ -51,4 +51,7 @@ Each scheduled run makes ONE new reel and posts it. Follow every step.
 10. Append a line to `topics.md` (date | slot | type | topic | file | media id), commit, push.
 11. Final message: topic, caption, and whether it posted (with media id) or what failed.
 
+If a push is rejected because another run pushed first: `git fetch --depth=5 origin main`,
+`git rebase origin/main` (for topics.md conflicts keep both lines), then push again.
+
 Never post anything hateful, sexual, about real people, or using copyrighted characters/music.
