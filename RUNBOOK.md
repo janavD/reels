@@ -11,14 +11,15 @@ Each scheduled run makes ONE new reel and posts it. Follow every step.
   expression changes, camera push-ins (`punch()`), pop-in text (`back()`), shake for panic.
 - Each reel: a setup, 3-6 short beats that escalate, and a punchline at the end.
 
-## Slot types (5 animation reels a day, Vancouver time)
-- 9am, 12pm, 6pm: funny + relatable (school, work, sleep, phone, food, gym, money, friends,
-  texting, weekends, family, gaming, late-night thoughts...). No repeats; check topics.md.
-- 3pm: short story reel WITH AI voiceover (narrator tells a tiny funny or wholesome story).
-- 9pm: motivational (character struggles, keeps going, wins) - uplifting, not cheesy.
-- (10:30am, 1:30pm, 4:30pm, 7:30pm, 11pm are streamer CLIP slots - see CLIPS_RUNBOOK.md.
-  If the clip queue is empty, those slots make a funny animation reel instead.)
-
+## Slot types (ONE animation reel every hour, 24 a day, Vancouver time)
+Use the current Vancouver hour (TZ=America/Vancouver date +%H) to pick the type:
+- 07, 13, 21: MOTIVATIONAL (struggle, keep going, win) - 62-75 seconds.
+- 11, 15, 19: STORY WITH AI VOICEOVER (tiny funny or wholesome story) - 62-75 seconds.
+- every other hour: FUNNY + RELATABLE, 12-25 seconds. Late night (23-05) favour late-night
+  topics (3am thoughts, can't sleep, night snacks, gaming till sunrise).
+Clips are NOT posted to Instagram any more (they are TikTok-only now).
+No two reels on the same topic; check topics.md. With 24 a day, vary settings (bedroom, kitchen,
+classroom, gym, bus, store, office, park, beach) and side characters so the feed stays fresh.
 
 ## Monetization rules (apply to EVERY reel)
 Goal: grow followers fast and qualify for TikTok Creator Rewards (10K followers, 100K views/30 days,
@@ -27,7 +28,7 @@ ORIGINAL videos over 1 minute) and Instagram monetization + brand deals.
   No slow intros. Something moves on screen in frame 1.
 - Retention: a new beat every 2-3 seconds; escalate; payoff at the end. End on a frame that loops
   cleanly back into the start when possible (rewatches boost reach).
-- LENGTH: the 3pm story and 9pm motivational reels must be 62-75 seconds (over 1 minute so they
+- LENGTH: the story and motivational reels must be 62-75 seconds (over 1 minute so they
   earn on TikTok Creator Rewards). Funny reels stay 12-25 s (short = more shares/rewatches).
 - Series: when a topic works, make it a numbered series ("part 2", "day 1 vs day 47") - series
   drive follows. Caption ends with a soft CTA: "follow for part 2", "send this to your friend who..."
