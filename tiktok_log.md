@@ -3,3 +3,4 @@
 2026-11-16 late: videos/2026-11-17_story_breakfast-in-bed.mp4, clips/queue/b01_intro.mp4, clips/queue/b03_called_mom.mp4, clips/queue/04_three_peat.mp4
 2026-11-17 morning: videos/2026-11-17_0000_one-more-game.mp4, videos/2026-11-17_0500_stay-up.mp4, videos/2026-11-17_0600_quiet-at-6am.mp4
 2026-11-17 midday: videos/2026-11-17_1000_self-checkout.mp4, videos/2026-11-17_0900_on-mute.mp4, videos/2026-11-17_0800_bus-1-min.mp4, videos/2026-11-17_0700_learning-guitar.mp4, videos/2026-11-17_0400_noise-at-4am.mp4
+2026-11-17 midday clips: clips/queue/09_cold_open.mp4, clips/queue/b02_first_out.mp4, clips/queue/02_fit_check.mp4 (b04_corn_alliance import timed out - not loaded)
