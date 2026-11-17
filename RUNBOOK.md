@@ -40,6 +40,20 @@ ORIGINAL videos over 1 minute) and Instagram monetization + brand deals.
 - Captions: hook line + 1 emoji, then 5-8 hashtags mixing broad (#relatable #funny) and niche
   (#studentlife #gymmotivation). Never more than 10.
 
+
+## Budget rules (must last at least a month)
+Voiceover credit (Speko) must last 30+ days:
+- Before any voiceover, check the balance with the Speko credits balance tool. If it is under $1.50,
+  skip the voiceover and use on-screen text instead.
+- Narration max ~900 characters (about 60-70 s). Use intent {"language":"en-US","optimizeFor":"cost"}.
+  Synthesize ONCE per reel - never re-generate the same narration.
+Keep each run light on usage:
+- One contact sheet of stills (max 6 frames, small), at most ONE round of fixes, then ONE full render.
+- Reuse before you draw: check engine/library/ for scenes and props made by earlier runs and import
+  them. After posting, save any new reusable scene/prop functions to engine/library/<topic>.py.
+- Do not read whole large files; never re-render a finished reel unless it is broken.
+- Funny reels: 12-20 s, 3-5 scenes. Long reels: reuse library scenes heavily.
+
 ## Steps
 1. Read `topics.md`. Pick a fresh topic that fits the slot and was never used.
 2. Write `work/<date>_<slot>.py`: `import sys; sys.path.insert(0, 'engine'); import rig` and reuse
@@ -55,8 +69,8 @@ ORIGINAL videos over 1 minute) and Instagram monetization + brand deals.
    bell, kick, snare, hat, bass, saw, tone, noise_sweep). Match the music and sound effects
    to the scene timings. Vary key, tempo and melody each reel. Funny = lo-fi / bouncy;
    panic = tense; motivational = slow build to an uplifting climax.
-6. Voiceover (3pm slot only): use the Speko connector `audio.synthesize` with
-   `{"text": ..., "intent": {"language": "en-US"}}` (a natural, expressive voice). Decode the
+6. Voiceover (story slots only, see Budget rules): use the Speko connector `audio.synthesize` with
+   `{"text": ..., "intent": {"language": "en-US", "optimizeFor": "cost"}}` (a natural, expressive voice). Decode the
    base64 audio, place it over the video, duck the music to ~35% under the voice, and make
    the scenes long enough for the narration. If Speko fails or credits run out, skip the voice
    and use on-screen text instead.
