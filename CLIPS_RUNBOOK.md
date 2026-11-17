@@ -15,6 +15,8 @@ Clip slots (Vancouver time): 10:30am, 1:30pm, 4:30pm, 7:30pm, 11pm. Each run pos
 4. Set that entry's `posted` to true, `media_id` to the returned id and `posted_at` to the
    current time, commit and push (`git -c push.negotiate=true push origin HEAD:main`; if rejected,
    `git fetch --depth=5 origin main`, `git rebase origin/main`, push again).
+4b. Captions: hook line, one keyword sentence (creator name + what happens), then EXACTLY 5 hashtags
+   (creator tag, creator-nickname tag, event/topic tag, #clips, 1 broad tag). Never more than 5.
 5. Final message: which clip, caption, media id (or what failed), and how many unposted clips are left.
    If 3 or fewer are left, say the user should send new footage soon.
 

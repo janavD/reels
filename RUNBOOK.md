@@ -37,7 +37,19 @@ ORIGINAL videos over 1 minute) and Instagram monetization + brand deals.
   logos (sponsors pay more for clean accounts and we must not show unpaid brands).
 - Leave natural product moments in stories (phone, snacks, energy drink, headphones, app on a
   laptop) drawn as GENERIC items - these are the slots a sponsor can buy later.
-- Captions: hook line + 1 emoji, then 5-8 hashtags mixing broad (#relatable #funny) and niche
+- CAPTIONS + HASHTAGS (built for maximum reach):
+  * Line 1 = hook that matches the on-screen caption bar, + 1-2 emoji. Make it something people
+    relate to or tag a friend over ("tag the friend who..." / "be honest, is this you?").
+  * Line 2 = one natural sentence packed with SEARCH KEYWORDS people actually type, e.g.
+    "funny relatable college student animation about procrastinating on assignments".
+    Instagram and TikTok search read caption text, on-screen text and audio, not just hashtags.
+  * Line 3 = EXACTLY 5 hashtags on Instagram (hard cap - more than 5 gets the reel suppressed).
+    Mix: 1 broad (#relatable / #funny / #motivation), 2 niche topic tags (#studentlife,
+    #procrastination, #gymmotivation, #nightowl...), 1 format tag (#animation / #cartoon /
+    #animatedstory), 1 audience tag (#collegelife / #genz / #memes).
+  * Same structure on TikTok (3-5 hashtags, no #fyp spam). Put the main keyword in the on-screen
+    caption bar too, so the reel ranks in search.
+  * Log the final caption in topics.md so the TikTok batch reuses it.
   (#studentlife #gymmotivation). Never more than 10.
 
 
