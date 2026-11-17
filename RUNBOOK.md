@@ -19,6 +19,26 @@ Each scheduled run makes ONE new reel and posts it. Follow every step.
 - (10:30am, 1:30pm, 4:30pm, 7:30pm, 11pm are streamer CLIP slots - see CLIPS_RUNBOOK.md.
   If the clip queue is empty, those slots make a funny animation reel instead.)
 
+
+## Monetization rules (apply to EVERY reel)
+Goal: grow followers fast and qualify for TikTok Creator Rewards (10K followers, 100K views/30 days,
+ORIGINAL videos over 1 minute) and Instagram monetization + brand deals.
+- Hook in the first 1 second: the caption bar line must create curiosity or instant relatability.
+  No slow intros. Something moves on screen in frame 1.
+- Retention: a new beat every 2-3 seconds; escalate; payoff at the end. End on a frame that loops
+  cleanly back into the start when possible (rewatches boost reach).
+- LENGTH: the 3pm story and 9pm motivational reels must be 62-75 seconds (over 1 minute so they
+  earn on TikTok Creator Rewards). Funny reels stay 12-25 s (short = more shares/rewatches).
+- Series: when a topic works, make it a numbered series ("part 2", "day 1 vs day 47") - series
+  drive follows. Caption ends with a soft CTA: "follow for part 2", "send this to your friend who..."
+  or "save this for later".
+- Brand-safe: no swearing, no violence beyond cartoon slapstick, no politics, no real brands or
+  logos (sponsors pay more for clean accounts and we must not show unpaid brands).
+- Leave natural product moments in stories (phone, snacks, energy drink, headphones, app on a
+  laptop) drawn as GENERIC items - these are the slots a sponsor can buy later.
+- Captions: hook line + 1 emoji, then 5-8 hashtags mixing broad (#relatable #funny) and niche
+  (#studentlife #gymmotivation). Never more than 10.
+
 ## Steps
 1. Read `topics.md`. Pick a fresh topic that fits the slot and was never used.
 2. Write `work/<date>_<slot>.py`: `import sys; sys.path.insert(0, 'engine'); import rig` and reuse
