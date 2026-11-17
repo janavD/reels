@@ -6,3 +6,4 @@ One line per posted reel: date | slot | type | topic | file | instagram media id
 2026-11-16 | 15:55 | funny (extra) | "i'll just have ONE chip" (eats the whole bag, pours crumbs in mouth) | videos/2026-11-16_1555_one-chip.mp4 | 18131842120845616
 2026-11-17 | 18:00 | funny | "just 5 more minutes" (snoozes alarm 11 times, wakes at 8:52 in panic, speedruns getting ready, it's saturday) | videos/2026-11-17_1800_five-more-minutes.mp4 | 17943434901380789
 2026-11-17 | extra | funny (extra) | opening the fridge every 10 minutes like new food spawned (same ketchup + lemon, prays, lemon says "bro it's just me", slams, reopens) | videos/2026-11-17_extra_fridge-check.mp4 | 18132665207512832
+2026-11-17 | extra2 | funny (extra) | brain replays a cringe memory at 3am ("enjoy your meal!" "you too!", waving back at someone not waving at you, blanket kick screaming, alarm at 7am, brain: "ok goodnight :)") | videos/2026-11-17_extra2_3am-cringe.mp4 | 18094827722207027
