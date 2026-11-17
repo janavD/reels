@@ -18,6 +18,9 @@ Clip slots (Vancouver time): 10:30am, 1:30pm, 4:30pm, 7:30pm, 11pm. Each run pos
 5. Final message: which clip, caption, media id (or what failed), and how many unposted clips are left.
    If 3 or fewer are left, say the user should send new footage soon.
 
+jsDelivr only serves files up to 20 MB, so every clip in the queue must be under 19 MB
+(re-encode with a lower video bitrate if needed).
+
 Making new clips (done in a chat with the user, not by the scheduled runs): see engine/make_clips.py.
 Format: 1080x1920, blurred background, 4:3 centre crop at y=555, hook title at the top,
 yellow word captions underneath from a word-timestamp transcript, @typeshi707 tag.
